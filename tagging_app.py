@@ -74,7 +74,7 @@ def get_employees(cache_key: int = 0) -> pd.DataFrame:
             offset += 500
 
     df = pd.DataFrame(list_hr)
-    df = df[df["departments"].apply(lambda dept_list: any(dept in {"Kolbenova", "Hostivař"} for dept in dept_list))]
+    df = df[df["departments"].apply(lambda dept_list: any(dept in {"Kolbenova", "Hostivař k Pérovně"} for dept in dept_list))]
     
     return df
 
