@@ -32,7 +32,8 @@ tags_and_permissions = {
   	"zaskok": "52ba0964-c967-49c6-bb3f-8785cacf86a2",
     "quality_inspector": "462a8413-a73d-4f0f-b3f2-354c922e670c",
     "ws_list": "27eea50f-fbf9-48ad-8f94-14436aed676e",
-    "ceneni": "c11fed20-3ed5-420f-a0af-31b83c576af7"
+    "KL": "d9543c92-b571-4fa8-91c9-77a0dfd47d0d",
+    "DH": "c86fcd91-3e55-45c7-8273-5974df6c95f7"
 }
 
 # Initialize cache invalidation counter in session state
