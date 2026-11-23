@@ -36,7 +36,8 @@ tags_and_permissions = {
     "DH": "c86fcd91-3e55-45c7-8273-5974df6c95f7",
     "photo_senior": "ba90c423-28d0-42fd-b188-b272db2a4825",
     "listing_nefunkcni_baliky": "806e9200-4fbf-45b1-ad19-ac53c0fbab63",
-    "listing_carol": "c7bf4ac8-7e8d-4cca-8f6e-148412f456ae"
+    "listing_carol": "c7bf4ac8-7e8d-4cca-8f6e-148412f456ae",
+    "listing_dohledavani_ztracenek": "2c6f3401-f308-4a80-98c1-20f0d176c662",
 }
 
 # Initialize cache invalidation counter in session state
